@@ -1,4 +1,4 @@
-pandas==0.23.0
-numpy==1.13.1
-matplotlib==2.0.2
-mplleaflet==0.0.5 
+pandas
+numpy
+matplotlib
+mplleaflet
