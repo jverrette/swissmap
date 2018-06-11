@@ -1,0 +1,379 @@
+year,code,type,population
+2010,CH,Permanent resident population,7870134.0
+2010,CH,Non permanent resident population,70835.0
+2010,ZH,Permanent resident population,1373068.0
+2010,ZH,Non permanent resident population,10872.0
+2010,BE,Permanent resident population,979802.0
+2010,BE,Non permanent resident population,6841.0
+2010,LU,Permanent resident population,377610.0
+2010,LU,Non permanent resident population,2268.0
+2010,UR,Permanent resident population,35422.0
+2010,UR,Non permanent resident population,320.0
+2010,SZ,Permanent resident population,146730.0
+2010,SZ,Non permanent resident population,1092.0
+2010,OW,Permanent resident population,35585.0
+2010,OW,Non permanent resident population,398.0
+2010,NW,Permanent resident population,41024.0
+2010,NW,Non permanent resident population,224.0
+2010,GL,Permanent resident population,38608.0
+2010,GL,Non permanent resident population,556.0
+2010,ZG,Permanent resident population,113105.0
+2010,ZG,Non permanent resident population,1210.0
+2010,FR,Permanent resident population,278493.0
+2010,FR,Non permanent resident population,1950.0
+2010,SO,Permanent resident population,255284.0
+2010,SO,Non permanent resident population,1518.0
+2010,BS,Permanent resident population,184950.0
+2010,BS,Non permanent resident population,2853.0
+2010,BL,Permanent resident population,274404.0
+2010,BL,Non permanent resident population,1346.0
+2010,SH,Permanent resident population,76356.0
+2010,SH,Non permanent resident population,685.0
+2010,AR,Permanent resident population,53017.0
+2010,AR,Non permanent resident population,177.0
+2010,AI,Permanent resident population,15688.0
+2010,AI,Non permanent resident population,41.0
+2010,SG,Permanent resident population,478907.0
+2010,SG,Non permanent resident population,2583.0
+2010,GR,Permanent resident population,192621.0
+2010,GR,Non permanent resident population,8568.0
+2010,AG,Permanent resident population,611466.0
+2010,AG,Non permanent resident population,3058.0
+2010,TG,Permanent resident population,248444.0
+2010,TG,Non permanent resident population,2092.0
+2010,TI,Permanent resident population,333753.0
+2010,TI,Non permanent resident population,2247.0
+2010,VD,Permanent resident population,713281.0
+2010,VD,Non permanent resident population,7486.0
+2010,VS,Permanent resident population,312684.0
+2010,VS,Non permanent resident population,7696.0
+2010,NE,Permanent resident population,172085.0
+2010,NE,Non permanent resident population,926.0
+2010,GE,Permanent resident population,457715.0
+2010,GE,Non permanent resident population,3566.0
+2010,JU,Permanent resident population,70032.0
+2010,JU,Non permanent resident population,262.0
+2011,CH,Permanent resident population,7954662.0
+2011,CH,Non permanent resident population,80729.0
+2011,ZH,Permanent resident population,1392396.0
+2011,ZH,Non permanent resident population,12744.0
+2011,BE,Permanent resident population,985046.0
+2011,BE,Non permanent resident population,7736.0
+2011,LU,Permanent resident population,381966.0
+2011,LU,Non permanent resident population,2699.0
+2011,UR,Permanent resident population,35382.0
+2011,UR,Non permanent resident population,393.0
+2011,SZ,Permanent resident population,147904.0
+2011,SZ,Non permanent resident population,1340.0
+2011,OW,Permanent resident population,35885.0
+2011,OW,Non permanent resident population,438.0
+2011,NW,Permanent resident population,41311.0
+2011,NW,Non permanent resident population,298.0
+2011,GL,Permanent resident population,39217.0
+2011,GL,Non permanent resident population,617.0
+2011,ZG,Permanent resident population,115104.0
+2011,ZG,Non permanent resident population,1331.0
+2011,FR,Permanent resident population,284668.0
+2011,FR,Non permanent resident population,2398.0
+2011,SO,Permanent resident population,256990.0
+2011,SO,Non permanent resident population,1743.0
+2011,BS,Permanent resident population,186255.0
+2011,BS,Non permanent resident population,3110.0
+2011,BL,Permanent resident population,275360.0
+2011,BL,Non permanent resident population,1654.0
+2011,SH,Permanent resident population,77139.0
+2011,SH,Non permanent resident population,860.0
+2011,AR,Permanent resident population,53313.0
+2011,AR,Non permanent resident population,253.0
+2011,AI,Permanent resident population,15743.0
+2011,AI,Non permanent resident population,51.0
+2011,SG,Permanent resident population,483156.0
+2011,SG,Non permanent resident population,3224.0
+2011,GR,Permanent resident population,193388.0
+2011,GR,Non permanent resident population,8408.0
+2011,AG,Permanent resident population,618298.0
+2011,AG,Non permanent resident population,4888.0
+2011,TG,Permanent resident population,251973.0
+2011,TG,Non permanent resident population,2352.0
+2011,TI,Permanent resident population,336943.0
+2011,TI,Non permanent resident population,2336.0
+2011,VD,Permanent resident population,725944.0
+2011,VD,Non permanent resident population,8660.0
+2011,VS,Permanent resident population,317022.0
+2011,VS,Non permanent resident population,7821.0
+2011,NE,Permanent resident population,173183.0
+2011,NE,Non permanent resident population,1190.0
+2011,GE,Permanent resident population,460534.0
+2011,GE,Non permanent resident population,3830.0
+2011,JU,Permanent resident population,70542.0
+2011,JU,Non permanent resident population,355.0
+2012,CH,Permanent resident population,8039060.0
+2012,CH,Non permanent resident population,84661.0
+2012,ZH,Permanent resident population,1408575.0
+2012,ZH,Non permanent resident population,12878.0
+2012,BE,Permanent resident population,992617.0
+2012,BE,Non permanent resident population,8762.0
+2012,LU,Permanent resident population,386082.0
+2012,LU,Non permanent resident population,2922.0
+2012,UR,Permanent resident population,35693.0
+2012,UR,Non permanent resident population,442.0
+2012,SZ,Permanent resident population,149830.0
+2012,SZ,Non permanent resident population,1506.0
+2012,OW,Permanent resident population,36115.0
+2012,OW,Non permanent resident population,423.0
+2012,NW,Permanent resident population,41584.0
+2012,NW,Non permanent resident population,302.0
+2012,GL,Permanent resident population,39369.0
+2012,GL,Non permanent resident population,674.0
+2012,ZG,Permanent resident population,116575.0
+2012,ZG,Non permanent resident population,1500.0
+2012,FR,Permanent resident population,291395.0
+2012,FR,Non permanent resident population,2505.0
+2012,SO,Permanent resident population,259283.0
+2012,SO,Non permanent resident population,1768.0
+2012,BS,Permanent resident population,187425.0
+2012,BS,Non permanent resident population,3315.0
+2012,BL,Permanent resident population,276537.0
+2012,BL,Non permanent resident population,1370.0
+2012,SH,Permanent resident population,77955.0
+2012,SH,Non permanent resident population,733.0
+2012,AR,Permanent resident population,53438.0
+2012,AR,Non permanent resident population,286.0
+2012,AI,Permanent resident population,15717.0
+2012,AI,Non permanent resident population,77.0
+2012,SG,Permanent resident population,487060.0
+2012,SG,Non permanent resident population,3679.0
+2012,GR,Permanent resident population,193920.0
+2012,GR,Non permanent resident population,8252.0
+2012,AG,Permanent resident population,627340.0
+2012,AG,Non permanent resident population,4463.0
+2012,TG,Permanent resident population,256213.0
+2012,TG,Non permanent resident population,2431.0
+2012,TI,Permanent resident population,341652.0
+2012,TI,Non permanent resident population,2300.0
+2012,VD,Permanent resident population,734356.0
+2012,VD,Non permanent resident population,9734.0
+2012,VS,Permanent resident population,321732.0
+2012,VS,Non permanent resident population,8165.0
+2012,NE,Permanent resident population,174554.0
+2012,NE,Non permanent resident population,1593.0
+2012,GE,Permanent resident population,463101.0
+2012,GE,Non permanent resident population,4107.0
+2012,JU,Permanent resident population,70942.0
+2012,JU,Non permanent resident population,474.0
+2013,CH,Permanent resident population,8139631.0
+2013,CH,Non permanent resident population,82696.0
+2013,ZH,Permanent resident population,1425538.0
+2013,ZH,Non permanent resident population,13217.0
+2013,BE,Permanent resident population,1001281.0
+2013,BE,Non permanent resident population,7168.0
+2013,LU,Permanent resident population,390349.0
+2013,LU,Non permanent resident population,3243.0
+2013,UR,Permanent resident population,35865.0
+2013,UR,Non permanent resident population,515.0
+2013,SZ,Permanent resident population,151396.0
+2013,SZ,Non permanent resident population,1487.0
+2013,OW,Permanent resident population,36507.0
+2013,OW,Non permanent resident population,406.0
+2013,NW,Permanent resident population,41888.0
+2013,NW,Non permanent resident population,362.0
+2013,GL,Permanent resident population,39593.0
+2013,GL,Non permanent resident population,567.0
+2013,ZG,Permanent resident population,118118.0
+2013,ZG,Non permanent resident population,1596.0
+2013,FR,Permanent resident population,297622.0
+2013,FR,Non permanent resident population,2055.0
+2013,SO,Permanent resident population,261437.0
+2013,SO,Non permanent resident population,2018.0
+2013,BS,Permanent resident population,189335.0
+2013,BS,Non permanent resident population,3411.0
+2013,BL,Permanent resident population,278656.0
+2013,BL,Non permanent resident population,1387.0
+2013,SH,Permanent resident population,78783.0
+2013,SH,Non permanent resident population,736.0
+2013,AR,Permanent resident population,53691.0
+2013,AR,Non permanent resident population,219.0
+2013,AI,Permanent resident population,15778.0
+2013,AI,Non permanent resident population,66.0
+2013,SG,Permanent resident population,491699.0
+2013,SG,Non permanent resident population,3501.0
+2013,GR,Permanent resident population,194959.0
+2013,GR,Non permanent resident population,8626.0
+2013,AG,Permanent resident population,636362.0
+2013,AG,Non permanent resident population,4727.0
+2013,TG,Permanent resident population,260278.0
+2013,TG,Non permanent resident population,2377.0
+2013,TI,Permanent resident population,346539.0
+2013,TI,Non permanent resident population,2432.0
+2013,VD,Permanent resident population,749373.0
+2013,VD,Non permanent resident population,9241.0
+2013,VS,Permanent resident population,327011.0
+2013,VS,Non permanent resident population,8680.0
+2013,NE,Permanent resident population,176402.0
+2013,NE,Non permanent resident population,1431.0
+2013,GE,Permanent resident population,469433.0
+2013,GE,Non permanent resident population,2903.0
+2013,JU,Permanent resident population,71738.0
+2013,JU,Non permanent resident population,325.0
+2014,CH,Permanent resident population,8237666.0
+2014,CH,Non permanent resident population,86888.0
+2014,ZH,Permanent resident population,1446354.0
+2014,ZH,Non permanent resident population,13725.0
+2014,BE,Permanent resident population,1009418.0
+2014,BE,Non permanent resident population,7723.0
+2014,LU,Permanent resident population,394604.0
+2014,LU,Non permanent resident population,3339.0
+2014,UR,Permanent resident population,36008.0
+2014,UR,Non permanent resident population,505.0
+2014,SZ,Permanent resident population,152759.0
+2014,SZ,Non permanent resident population,1402.0
+2014,OW,Permanent resident population,36834.0
+2014,OW,Non permanent resident population,374.0
+2014,NW,Permanent resident population,42080.0
+2014,NW,Non permanent resident population,360.0
+2014,GL,Permanent resident population,39794.0
+2014,GL,Non permanent resident population,614.0
+2014,ZG,Permanent resident population,120089.0
+2014,ZG,Non permanent resident population,1644.0
+2014,FR,Permanent resident population,303377.0
+2014,FR,Non permanent resident population,1979.0
+2014,SO,Permanent resident population,263719.0
+2014,SO,Non permanent resident population,2033.0
+2014,BS,Permanent resident population,190580.0
+2014,BS,Non permanent resident population,3370.0
+2014,BL,Permanent resident population,281301.0
+2014,BL,Non permanent resident population,1474.0
+2014,SH,Permanent resident population,79417.0
+2014,SH,Non permanent resident population,988.0
+2014,AR,Permanent resident population,54064.0
+2014,AR,Non permanent resident population,258.0
+2014,AI,Permanent resident population,15854.0
+2014,AI,Non permanent resident population,105.0
+2014,SG,Permanent resident population,495824.0
+2014,SG,Non permanent resident population,3520.0
+2014,GR,Permanent resident population,195886.0
+2014,GR,Non permanent resident population,8054.0
+2014,AG,Permanent resident population,645277.0
+2014,AG,Non permanent resident population,5870.0
+2014,TG,Permanent resident population,263733.0
+2014,TG,Non permanent resident population,2209.0
+2014,TI,Permanent resident population,350363.0
+2014,TI,Non permanent resident population,2508.0
+2014,VD,Permanent resident population,761446.0
+2014,VD,Non permanent resident population,10798.0
+2014,VS,Permanent resident population,331763.0
+2014,VS,Non permanent resident population,8087.0
+2014,NE,Permanent resident population,177327.0
+2014,NE,Non permanent resident population,1524.0
+2014,GE,Permanent resident population,477385.0
+2014,GE,Non permanent resident population,4032.0
+2014,JU,Permanent resident population,72410.0
+2014,JU,Non permanent resident population,393.0
+2015,CH,Permanent resident population,8327126.0
+2015,CH,Non permanent resident population,96486.0
+2015,ZH,Permanent resident population,1466424.0
+2015,ZH,Non permanent resident population,15578.0
+2015,BE,Permanent resident population,1017483.0
+2015,BE,Non permanent resident population,8898.0
+2015,LU,Permanent resident population,398762.0
+2015,LU,Non permanent resident population,4154.0
+2015,UR,Permanent resident population,35973.0
+2015,UR,Non permanent resident population,656.0
+2015,SZ,Permanent resident population,154093.0
+2015,SZ,Non permanent resident population,1713.0
+2015,OW,Permanent resident population,37076.0
+2015,OW,Non permanent resident population,414.0
+2015,NW,Permanent resident population,42420.0
+2015,NW,Non permanent resident population,376.0
+2015,GL,Permanent resident population,40028.0
+2015,GL,Non permanent resident population,495.0
+2015,ZG,Permanent resident population,122134.0
+2015,ZG,Non permanent resident population,1794.0
+2015,FR,Permanent resident population,307461.0
+2015,FR,Non permanent resident population,2403.0
+2015,SO,Permanent resident population,266418.0
+2015,SO,Non permanent resident population,2754.0
+2015,BS,Permanent resident population,191817.0
+2015,BS,Non permanent resident population,3370.0
+2015,BL,Permanent resident population,283231.0
+2015,BL,Non permanent resident population,1776.0
+2015,SH,Permanent resident population,79836.0
+2015,SH,Non permanent resident population,1182.0
+2015,AR,Permanent resident population,54543.0
+2015,AR,Non permanent resident population,322.0
+2015,AI,Permanent resident population,15974.0
+2015,AI,Non permanent resident population,119.0
+2015,SG,Permanent resident population,499065.0
+2015,SG,Non permanent resident population,4386.0
+2015,GR,Permanent resident population,196610.0
+2015,GR,Non permanent resident population,8341.0
+2015,AG,Permanent resident population,653675.0
+2015,AG,Non permanent resident population,7433.0
+2015,TG,Permanent resident population,267429.0
+2015,TG,Non permanent resident population,2185.0
+2015,TI,Permanent resident population,351946.0
+2015,TI,Non permanent resident population,2904.0
+2015,VD,Permanent resident population,773407.0
+2015,VD,Non permanent resident population,10189.0
+2015,VS,Permanent resident population,335696.0
+2015,VS,Non permanent resident population,8425.0
+2015,NE,Permanent resident population,178107.0
+2015,NE,Non permanent resident population,1602.0
+2015,GE,Permanent resident population,484736.0
+2015,GE,Non permanent resident population,4578.0
+2015,JU,Permanent resident population,72782.0
+2015,JU,Non permanent resident population,439.0
+2016,CH,Permanent resident population,8419550.0
+2016,CH,Non permanent resident population,77763.0
+2016,ZH,Permanent resident population,1487969.0
+2016,ZH,Non permanent resident population,12956.0
+2016,BE,Permanent resident population,1026513.0
+2016,BE,Non permanent resident population,6355.0
+2016,LU,Permanent resident population,403397.0
+2016,LU,Non permanent resident population,2965.0
+2016,UR,Permanent resident population,36145.0
+2016,UR,Non permanent resident population,313.0
+2016,SZ,Permanent resident population,155863.0
+2016,SZ,Non permanent resident population,1222.0
+2016,OW,Permanent resident population,37378.0
+2016,OW,Non permanent resident population,286.0
+2016,NW,Permanent resident population,42556.0
+2016,NW,Non permanent resident population,285.0
+2016,GL,Permanent resident population,40147.0
+2016,GL,Non permanent resident population,367.0
+2016,ZG,Permanent resident population,123948.0
+2016,ZG,Non permanent resident population,1688.0
+2016,FR,Permanent resident population,311914.0
+2016,FR,Non permanent resident population,1761.0
+2016,SO,Permanent resident population,269441.0
+2016,SO,Non permanent resident population,1847.0
+2016,BS,Permanent resident population,193070.0
+2016,BS,Non permanent resident population,2896.0
+2016,BL,Permanent resident population,285624.0
+2016,BL,Non permanent resident population,1437.0
+2016,SH,Permanent resident population,80769.0
+2016,SH,Non permanent resident population,837.0
+2016,AR,Permanent resident population,54954.0
+2016,AR,Non permanent resident population,180.0
+2016,AI,Permanent resident population,16003.0
+2016,AI,Non permanent resident population,95.0
+2016,SG,Permanent resident population,502552.0
+2016,SG,Non permanent resident population,2884.0
+2016,GR,Permanent resident population,197550.0
+2016,GR,Non permanent resident population,7696.0
+2016,AG,Permanent resident population,663462.0
+2016,AG,Non permanent resident population,5012.0
+2016,TG,Permanent resident population,270709.0
+2016,TG,Non permanent resident population,1858.0
+2016,TI,Permanent resident population,354375.0
+2016,TI,Non permanent resident population,2581.0
+2016,VD,Permanent resident population,784822.0
+2016,VD,Non permanent resident population,9704.0
+2016,VS,Permanent resident population,339176.0
+2016,VS,Non permanent resident population,7400.0
+2016,NE,Permanent resident population,178567.0
+2016,NE,Non permanent resident population,1261.0
+2016,GE,Permanent resident population,489524.0
+2016,GE,Non permanent resident population,3598.0
+2016,JU,Permanent resident population,73122.0
+2016,JU,Non permanent resident population,279.0
